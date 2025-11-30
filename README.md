@@ -1,62 +1,220 @@
-<h1 align="center"><b>HELLO WORLD 🌍</b></h1>
+<h1 align="center"><b>🌍 HELLO WORLD, I'M ALEJANDRO GUZMAN</b></h1>
+
 
 <p align="center">
-  <img src="https://mott.pe/uploads/images/2014/12/12/8.gif" />
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/nezuko-glowing-eyes-demon-slayer-gif-desktop-wallpaper-preview.gif" width="800"/>
 </p>
 
+---
 
-## 👋 HI NICE TO MEET YOU, I'M ALEJANDRO GUZMAN!
+## 👋 About Me
 
-- I'm an enthusiastic software engineering student with a burning passion for coding and technology. 
+<table>
+<tr>
+<td>
 
-🎓 Currently, I'm pursuing my degree in Software Engineering. 
+I'm **Alejandro Guzman**, a passionate **Full-Stack Software Engineering student** focused on building modern, scalable, and impactful applications.
 
-🌟 I thrive on solving complex problems and crafting elegant solutions through the art of programming. 
+💡 I love creating solutions through code  
+🤖 I'm highly interested in **Artificial Intelligence & Deep Learning**  
+🔧 I enjoy building full-stack apps with **Django + React**  
+☁️ I work with cloud tools like **AWS** and **Supabase**  
+📈 I have hands-on experience with ML/DL techniques such as **LSTM, GRU, XGBoost, and SVR**
 
-💻 In addition to my technical prowess, I'm also adept at collaborating with teams, embracing challenges, and continuously learning and adapting in the dynamic world of software development. 
+I'm constantly learning, experimenting, and improving—one commit at a time.
 
-🌐 Excited about the journey ahead, I'm eager to contribute my skills and creativity to the ever-evolving realm of software development! 
+</td>
 
-- Let's connect and build something amazing together! 🌟
+<td align="center" width="350">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZms4eGVtdm11cnkzbGcxem1rdWF3cHpnM3phNWlndXZldWVvYzFobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zs9A00dxUMg5Z8icqc/giphy.gif" width="300"/>
+  <br/>
+  <em>Building the future one commit at a time 🚀</em>
+</td>
+</tr>
+</table>
 
+---
 
-## 🛠️ Technologies and Tools
+## 🛠️ Core Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge&logoWidth=30" height="60"/>
-  <img src="https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp" height="60"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="60"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" height="60"/>
+  <img src="https://skillicons.dev/icons?i=js,py,django,react,nodejs,cpp,kotlin,windows,postgres,aws,supabase,git,github,docker" height="95"/>
 </p>
 
+---
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td>
 
+### **Languages & Frameworks**
+- Python 🐍  
+- Django 🧩  
+- React ⚛️  
+- JavaScript 📜  
+- C++ 🧮  
+- Kotlin 📱  
+
+### **Databases**
+- PostgreSQL 🐘  
+- SQL 🗄️  
+
+### **Cloud & DevOps**
+- AWS ☁️  
+- Supabase 🟩  
+
+### **Operating System**
+- Windows 🪟  
+
+</td>
+
+<td align="center" width="350">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+  <br/>
+  <em>Tech is my playground ⚙️</em>
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & Machine Learning Experience
+
+<table>
+<tr>
+<td>
+
+- Recurrent Neural Networks (RNN)  
+- **LSTM** (Long Short-Term Memory)  
+- **GRU** (Gated Recurrent Unit)  
+- **XGBoost** for predictive modeling  
+- **SVR** (Support Vector Regression)  
+- Data preprocessing, scaling, feature engineering  
+- Python ML libraries (NumPy, Pandas, Scikit-learn)
+
+</td>
+
+<td align="center" width="350">
+  <img src="https://miro.medium.com/1*lVuFwr5W59aG5uWwfAfTeA.gif" width="260"/>
+  <br/>
+  <em>ML & Deep Learning Enthusiast 🤖</em>
+</td>
+</tr>
+</table>
+
+---
+
+## 🔨 Currently Working On
+
+<table>
+<tr>
+<td>
+
+- Full-stack applications using **Django + React**  
+- Machine learning models for prediction and classification  
+- Backend engineering with clean architecture  
+- API development and authentication  
+- Docker Compose  
+
+</td>
+
+<td align="center" width="350">
+  <img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" width="260"/>
+  <br/>
+  <em>Always improving 🔧</em>
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Learning Next
+
+<table>
+<tr>
+<td>
+
+- Microservices architecture  
+- AWS Lambda, S3, EC2  
+- React optimization & scalable UI patterns  
+- Kubernetes  
+
+</td>
+
+<td align="center" width="350">
+  <img src="https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif" width="260"/>
+  <br/>
+  <em>Learning never stops 📘</em>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Skill Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejOnedayxneBscene&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejOnedayxneBscene&layout=compact&theme=radical" alt="Top Languages" />
+
+| Skill | Level |
+|-------|--------|
+| **Python** | ⭐⭐⭐⭐☆ |
+| **Django** | ⭐⭐⭐⭐☆ |
+| **React** | ⭐⭐⭐⭐☆ |
+| **JavaScript** | ⭐⭐⭐⭐☆ |
+| **C++** | ⭐⭐⭐☆☆ |
+| **Kotlin** | ⭐⭐☆☆☆ |
+| **SQL / PostgreSQL** | ⭐⭐⭐⭐☆ |
+| **AWS** | ⭐⭐⭐☆☆ |
+| **Machine Learning** | ⭐⭐☆☆☆ |
+
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=AlejOnedayxneBscene&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AlejOnedayxneBscene&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AlejOnedayxneBscene&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejOnedayxneBscene&theme=tokyonight" width="90%"/>
 </p>
 
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlejOnedayxneBscene&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👁️ Visitors Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlejOnedayxneBscene&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonathan-alejandro-guzman-camelo-7244a7378/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
+<p align="center"><b>✨ Let's build something extraordinary together.</b></p>
